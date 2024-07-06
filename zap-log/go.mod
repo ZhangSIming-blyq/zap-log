@@ -1,4 +1,4 @@
-module github.com/ZhangSIming-blyq/zap-log
+module github.com/ZhangSIming-blyq/zap-log/logger
 
 go 1.18
 
