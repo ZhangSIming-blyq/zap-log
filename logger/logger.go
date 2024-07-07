@@ -1,4 +1,4 @@
-package github.com/ZhangSIming-blyq/zap-log/logger
+package logger
 
 import (
 	"os"
